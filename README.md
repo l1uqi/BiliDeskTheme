@@ -4,6 +4,8 @@
 
 无意间看见B站客户端实现, 感觉挺有意思的 于是实现了一下
 
+## 预览
+http://hello7cat.com/BiliDeskTheme/
  
 ## 实现
 1. 底部背景, 其余页面z-index 大于背景。
