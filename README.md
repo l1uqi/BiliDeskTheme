@@ -2,7 +2,7 @@
 
 # 仿B站桌面客户端白天/夜间 切换效果
 
-无意间看见B站客户端实现, 感觉挺有意思的 于是实现了一下
+上班摸鱼逛掘金看到这篇[使用全新的View Transitions API，实现B站PC客户端的深色主题切换效果](https://juejin.cn/post/7207810396420325413) 感觉挺有意思的, 在不使用文章的方式实现了一下。
 
 ## 预览
 http://hello7cat.com/BiliDeskTheme/
