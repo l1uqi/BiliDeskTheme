@@ -5,7 +5,7 @@
 上班摸鱼逛掘金看到这篇[使用全新的View Transitions API，实现B站PC客户端的深色主题切换效果](https://juejin.cn/post/7207810396420325413) 感觉挺有意思的, 在不使用文章的方式实现了一下。
 
 ## 预览
-http://hello7cat.com/BiliDeskTheme/
+https://l1uqi.github.io/BiliDeskTheme/
  
 ## 实现
 1. 底部背景, 其余页面z-index 大于背景。
